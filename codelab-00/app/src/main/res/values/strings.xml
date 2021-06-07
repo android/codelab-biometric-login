@@ -15,6 +15,7 @@
   -->
 <resources>
     <string name="app_name">Biometric Login Sample</string>
+    <string name="secret_key_name">biometric_sample_encryption_key</string>
     <string name="username_hint">phone number, email, or username</string>
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
