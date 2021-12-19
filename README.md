@@ -27,9 +27,13 @@ The sample app addresses the following critical user journeys:
 Screenshots
 -------------
 
-<img src="screenshots/authorize_bio.png" height="400" alt="Screenshot"/>
-<img src="screenshots/login_landing.png" height="400" alt="Screenshot"/>
+<img src="screenshots/login_landing.png" height="400" alt="Screenshot"/>  
+
 <img src="screenshots/bio_prompt.png" height="400" alt="Screenshot"/>
+
+<img src="screenshots/bio_success.png" height="400" alt="Screenshot"/>  
+
+**Note:** Android system shows a black screen when attempting to take a screenshot during the biometric login process (thumbprint scanner bottom drawer popup)
 
 Getting Started
 ---------------
