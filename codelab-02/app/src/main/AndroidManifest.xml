@@ -28,7 +28,8 @@
             android:label="@string/title_activity_enable_biometric_login"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
-        <activity android:name=".LoginActivity">
+        <activity android:name=".LoginActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
